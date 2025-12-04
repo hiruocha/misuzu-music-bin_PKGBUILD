@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Misuzu Music
+Comment=一个跨平台的本地音乐播放器
+Exec=/opt/misuzu-music/misuzumusic
+Icon=/usr/share/pixmaps/misuzu-music.png
+Terminal=false
+Type=Application
+Categories=AudioVideo;Audio;
